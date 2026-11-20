@@ -1,0 +1,5 @@
+{
+  "name": "trial1",
+  "description": "Minimal web server bootstrapped for the imported ngalamasoy/trial1 repository.",
+  "requestFramePermissions": []
+}
